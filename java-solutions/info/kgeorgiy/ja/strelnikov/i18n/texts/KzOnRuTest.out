@@ -1,0 +1,41 @@
+Summary statistics: 
+	Number of sentences: 7
+	Number of words: 17
+	Number of numbers: 8
+	Number of sums: 1
+	Number of dates: 1
+Statistics for sentences: 
+	Number of sentences: 7 (Unique: 7)
+	Minimal sentence: Меня зовут Илья. 
+	Maximal sentence: Я учусь в ИТМО. 
+	Minimal length of a sentence: 8 (Привет. )
+	Maximal length of a sentence: 27 (Число 100, 200, 142, 15125.)
+	Average length of sentences: 17.571
+Statistics for words: 
+	Number of words: 17 (Unique: 15)
+	Minimal word: в
+	Maximal word: янв
+	Minimal length of a word: 1 (Я)
+	Maximal length of a word: 6 (Привет)
+	Average length of words: 3.353
+Statistics for numbers: 
+	Number of numbers: 8 (Unique: 8)
+	Minimal number: 1
+	Maximal number: 15 125
+	Minimal length of a number: 1 (1)
+	Maximal length of a number: 6 (112)
+	Average length of numbers: 2,208.75
+Statistics for sums: 
+	Number of sums: 1 (Unique: 1)
+	Minimal sum: 112,00 ¤
+	Maximal sum: 112,00 ¤
+	Minimal length of a sum: 8 (112,00 ¤)
+	Maximal length of a sum: 8 (112,00 ¤)
+	Average length of sums: 112
+Statistics for dates: 
+	Number of dates: 1 (Unique: 1)
+	Minimal date: 1 янв. 1970 г.
+	Maximal date: 1 янв. 1970 г.
+	Minimal length of a date: Jan 1, 1970 (1 янв. 1970 г.)
+	Maximal length of a date: Jan 1, 1970 (1 янв. 1970 г.)
+	Average length of dates: Jan 1, 1970

@@ -1,0 +1,1 @@
+java -cp "..\out\production\info.kgeorgiy.ja.strelnikov.implementor" -p "..\out\production";"..\lib" -m info.kgeorgiy.java.advanced.implementor/info.kgeorgiy.java.advanced.implementor.Tester jar-advanced info.kgeorgiy.ja.strelnikov.implementor.Implementor

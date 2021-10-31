@@ -1,0 +1,1 @@
+java -jar implementor.jar info.kgeorgiy.java.advanced.implementor.Impler out

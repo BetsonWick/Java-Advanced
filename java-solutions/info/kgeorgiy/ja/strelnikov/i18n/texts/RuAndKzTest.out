@@ -1,0 +1,27 @@
+Summary statistics: 
+	Number of sentences: 6
+	Number of words: 20
+	Number of numbers: 1
+	Number of sums: 0
+	Number of dates: 0
+Statistics for sentences: 
+	Number of sentences: 6 (Unique: 6)
+	Minimal sentence: 14 214,00 ₸ вот столько на Казахском стоит нормальная бутылочка. 
+	Maximal sentence: У тебя-то как ?
+	Minimal length of a sentence: 10 (Қалайсыз. )
+	Maximal length of a sentence: 65 (14 214,00 ₸ вот столько на Казахском стоит нормальная бутылочка. )
+	Average length of sentences: 24.833
+Statistics for words: 
+	Number of words: 20 (Unique: 20)
+	Minimal word: бе
+	Maximal word: хорошо
+	Minimal length of a word: 1 (У)
+	Maximal length of a word: 10 (нормальная)
+	Average length of words: 5.5
+Statistics for numbers: 
+	Number of numbers: 1 (Unique: 1)
+	Minimal number: 14 214
+	Maximal number: 14 214
+	Minimal length of a number: 9 (14 214)
+	Maximal length of a number: 9 (14 214)
+	Average length of numbers: 14,214
